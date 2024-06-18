@@ -1,0 +1,3 @@
+
+
+In order to further my knowledge of PCB Design I decided to create a System on Module (SOM) for a Zynq-7000 Fpga/SoC. I decided on this project as I have created Microcontroller based boards before and I wanted to take it one step further and move onto Fpgas and SoCs. Creating a SOM allows me to do most of the difficult work once then create unique carrier boards later for many different applications.
