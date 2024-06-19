@@ -16,7 +16,7 @@ timezone:
 
 title: Matthew Szalawiga # the main title
 
-tagline: Electrical Engineering Student with an interest in PCB Design, Power Electronics, Robotics and, Embedded Systems # it will display as the sub-title
+tagline: Electrical Engineering Student with an interest in Circuit and Hardware Design # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
